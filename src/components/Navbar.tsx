@@ -25,12 +25,12 @@ export function Nav() {
             .767.839 1.235 1.91 1.235 3.221 0 4.61-2.807 5.625-5.48 5.922
             .43.37.81 1.102.81 2.222 0 1.606-.015 2.903-.015 3.296 0 .321.217.697.825.58
             A12 12 0 0 0 12 .296"/>
-        </svg><p className="font-black"> JavyProgrameitor@gmail.com return Portfolio</p>
+        </svg><p className="font-black"> JavyProgrameitor@gmail.com</p>
       </NavbarBrand>
       <NavbarToggle />
       <NavbarCollapse>
-        <NavbarLink href="#" active>
-          Home
+        <NavbarLink href="https://javyprogrameitor.github.io/Portfolio/" active>
+          Portfolio
         </NavbarLink>
         <NavbarLink href="#">About</NavbarLink>
         <NavbarLink href="#">Services</NavbarLink>
